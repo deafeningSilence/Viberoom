@@ -6,7 +6,14 @@ This is the hack that one Runner-up at the RAJASTHAN HACKATHON 2.0 !
 
 ![](screenshots/screenshot1.png)
 
-## Game Architecture
+## Game components
 
-![](screenshots/architecture.jpg)
+* Greenboard
+* Whiteboard
+* Videoboard
+* Bookshelf
+* Studious
+* books
+
+
 
