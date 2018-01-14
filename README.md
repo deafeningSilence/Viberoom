@@ -26,9 +26,9 @@ This is the hack that one Runner-up at the RAJASTHAN HACKATHON 2.0 !
   * [VaRest](https://github.com/ufna/VaRest) - REST API for UE4
     
 * Backend - Server
-  * Flask
-  * NLTK
-  * Wikipedia API
+  * [Flask](http://flask.pocoo.org/) A microframework for Python
+  * [NLTK](http://www.nltk.org/) NLP Library for Python
+  * [Wikipedia API](https://pypi.python.org/pypi/wikipedia)
 
 
 
