@@ -31,5 +31,8 @@ This is the hack that won the Runner-up at the RAJASTHAN HACKATHON 2.0 - Kota
   * [Wikipedia API](https://pypi.python.org/pypi/wikipedia)
 
 
+### Click on the image below to view the gameplay in youtube.
+>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/APgB3Kd2x-o/0.jpg)](https://www.youtube.com/watch?v=APgB3Kd2x-o)
+
 
 
