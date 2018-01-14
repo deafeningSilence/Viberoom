@@ -18,12 +18,17 @@ This is the hack that one Runner-up at the RAJASTHAN HACKATHON 2.0 !
 ## Built With
 
 * Game - Client
-  * Unreal engine 4
-  * Visual Studio
+  * [Unreal Engine 4](https://www.unrealengine.com/en-US/blog) - Game engine used
+  * [Visual Studio](https://www.visualstudio.com/) - creation of C++ modules used ingame
   * Asset creation tools -
-    * Photoshop
+    * [Photoshop](www.adobe.com/Photoshop) - Texturing
+    * [Blender](https://www.blender.org/) - 3D model creation
+  * [VaRest](https://github.com/ufna/VaRest) - REST API for UE4
     
 * Backend - Server
+  * Flask
+  * NLTK
+  * Wikipedia API
 
 
 
