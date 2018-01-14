@@ -34,5 +34,8 @@ This is the hack that won the Runner-up at the RAJASTHAN HACKATHON 2.0 - Kota
 ### Click on the image below to view the gameplay in youtube.
 >[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/APgB3Kd2x-o/0.jpg)](https://www.youtube.com/watch?v=APgB3Kd2x-o)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
