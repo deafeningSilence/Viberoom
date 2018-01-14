@@ -3,4 +3,4 @@ Viberoom is a classroom in Virtual Reality that helps people from all over the g
 Studious is an educational assistive AI that will help you when you have a task at hand in class.It helps automate the normal activities that a student has to perform in a class.
 
 
-![](screen1.png)
+![](screenshots/screen1.png)
