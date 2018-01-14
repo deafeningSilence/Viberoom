@@ -13,7 +13,18 @@ This is the hack that one Runner-up at the RAJASTHAN HACKATHON 2.0 !
 * Videoboard
 * Bookshelf
 * Studious
-* books
+* Books
+
+## Built With
+
+* Game - Client
+  * Unreal engine 4
+  * Visual Studio
+  * Asset creation tools -
+    * Photoshop
+    
+* Backend - Server
+
 
 
 
