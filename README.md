@@ -4,7 +4,9 @@ Studious is an educational assistive AI that will help you when you have a task 
 
 This is the hack that won the Runner-up at the [RAJASTHAN HACKATHON 2.0 - Kota](https://rajasthanhackathon.hackerearth.com/)
 
-![](screenshots/screenshot1.png)
+<p align="center">
+  <img src="https://github.com/deafeningSilence/Viberoom/blob/master/screenshots/screenshot1.png">
+</p>
 
 ## Game components
 
